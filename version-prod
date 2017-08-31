@@ -1,158 +1,158 @@
 {
-"versions": {
-"printbeat": {
-"ios": {
-"warning": [],
-"update": [
-"1.1.640",
-"2.0.0",
-"2.1.0",
-"2.2.0",
-"2.2.5",
-"2.3.0",
-"2.3.5",
-"2.4.0",
-"2.5.0",
-"2.5.5",
-"2.6.0",
-"2.6.5"
-],
-"valid": [
-"2.7.0"
-],
-"link_in_store": "https://itunes.apple.com/us/app/hp-printos-for-print-service/id1091732549?mt=8"
-},
-"android": {
-"warning": [],
-"update": [
-"1.1.648",
-"1.1.649",
-"1.1.648 ",
-"1.1.649 ",
-"2.0.0",
-"2.1.0",
-"2.2.0",
-"2.2.5",
-"2.3.0",
-"2.3.5",
-"2.4.0",
-"2.5.0",
-"2.5.5",
-"2.6.0"
-],
-"valid": [
-"2.7.0"
-],
-"link_in_store": "https://play.google.com/store/apps/details?id=com.hp.printosforpsp"
-}
-}
-},
-"messages": {
-"message_default": {
-"en": "An Error has occurred, please contact the HP support.",
-"fr": "Une erreur s'est produite, veuillez contacter l'assistance HP",
-"it": "Si è verificato un errore, contattare il supporto HP.",
-"es": "Se ha producido un error, póngase en contacto con soporte HP.",
-"de": "Ein Fehler ist aufgetreten. Wenden Sie sich an den HP Support.",
-"zh": "出现错误，请联系 HP 支持。",
-"ko": "오류가 발생했습니다. HP 지원에 연락해 주십시오.",
-"ja": "エラーが発生しました。HPサポートに連絡してください。",
-"ru": "Произошла ошибка, обратитесь в службу поддержки HP.",
-"pt": "Ocorreu um erro. Entre em contato com o suporte da HP."
-},
-"message_update": {
-"en": "This version is no longer supported, please update.",
-"fr": "Cette version n'est plus prise en charge, veuillez la mettre à jour.",
-"it": "Questa versione non è più supportata, aggiornarla.",
-"es": "Esta versión ya no es compatible, actualice.",
-"de": "Diese Version wird nicht mehr unterstützt. Bitte aktualisieren.",
-"zh": "不再支持此版本，请更新。",
-"ko": "이 버전은 더 이상 지원되지 않습니다. 업데이트해 주십시오.",
-"ja": "このバージョンはサポートされていません。更新してください。",
-"ru": "Данная версия больше не поддерживается, выполните обновление.",
-"pt": "Não há mais suporte para esta versão. Atualize-a."
-},
-"message_warning": {
-"en": "We have a new update. It is recommended to update your application version.",
-"fr": "Nous avons une nouvelle mise à jour. Il est recommandé de mettre à jour la version de votre application.",
-"it": "È disponibile un nuovo aggiornamento. Si consiglia di aggiornare la versione dell'applicazione.",
-"es": "Tenemos una nueva actualización. Se recomienda actualizar la versión de la aplicación.",
-"de": "Wir haben ein neues Update. Eine Aktualisierung Ihrer Anwendungsversion wird empfohlen.",
-"zh": "发现新的更新。建议更新您的应用程序版本。",
-"ko": "새 업데이트가 있습니다. 애플리케이션 버전을 업데이트하는 것을 권장합니다.",
-"ja": "新しい更新プログラムがあります。アプリケーションのバージョンを更新することをお勧めします。",
-"ru": "Есть новое обновление. Рекомендуется обновить версию приложения.",
-"pt": "Temos uma nova atualização. Recomenda-se atualizar a versão do aplicativo."
-},
-"assets": [],
-"assets_last_update": "20160623"
-},
-"configuration": {
-"app_rating": {
-"rated_versions": [
-"2.3.6",
-"2.3.7",
-"2.3.9",
-"2.3.10",
-"2.4.0",
-"2.4.002",
-"2.4.004",
-"2.5.0",
-"2.5.5",
-"2.6.0",
-"2.6.5",
-"2.7.0"
-],
-"days_after_installation": 10
-},
-"supported_languages": [
-"en",
-"fr",
-"zh",
-"de",
-"it",
-"ja",
-"ko",
-"es",
-"pt"
-],
-"validation": {
-"check_cookie_expiry_hrs": 1,
-"move_to_home_mins": 5,
-"show_toast_message": true
-},
-"v2_support": true,
-"completed_jobs_enabled": true,
-"pulse_animation_in_secs": 10,
-"notification_popup_in_secs": 5,
-"insights": {
-"jams_enabled": true,
-"failures_enabled": true,
-"badge_version": "2.6.0"
-},
-"weekly_printbeat": {
-"ranking_feature": {
-"enabled": false,
-"supported_equipments": [
-"IndigoPress"
-]
-},
-"kpi_data_incrementally_enabled": false
-},
-"nps_popup_enabled": false,
-"kpi_explanation_enabled": true,
-"location_based_notifications_enabled": false,
-"beat_coins_popup_enabled": true,
-"time_zone_popup_enabled": true,
-"refer_a_friend": {
-"enabled": true,
-"url": "https://udivaks.typeform.com/to/gGABlV"
-},
-"closed_service_calls_days": 3,
-"realtime_data_refresh": {
-"enabled": true,
-"repeat_interval_in_secs": 30
-},
-"filter_search_box_device_count": 5
-}
+  "versions": {
+    "printbeat": {
+      "ios": {
+        "warning": [],
+        "update": [
+          "1.1.640",
+          "2.0.0",
+          "2.1.0",
+          "2.2.0",
+          "2.2.5",
+          "2.3.0",
+          "2.3.5",
+          "2.4.0",
+          "2.5.0",
+          "2.5.5",
+          "2.6.0",
+          "2.6.5"
+        ],
+        "valid": [
+          "2.7.0"
+        ],
+        "link_in_store": "https://itunes.apple.com/us/app/hp-printos-for-print-service/id1091732549?mt=8"
+      },
+      "android": {
+        "warning": [],
+        "update": [
+          "1.1.648",
+          "1.1.649",
+          "1.1.648 ",
+          "1.1.649 ",
+          "2.0.0",
+          "2.1.0",
+          "2.2.0",
+          "2.2.5",
+          "2.3.0",
+          "2.3.5",
+          "2.4.0",
+          "2.5.0",
+          "2.5.5",
+          "2.6.0"
+        ],
+        "valid": [
+          "2.7.0"
+        ],
+        "link_in_store": "https://play.google.com/store/apps/details?id=com.hp.printosforpsp"
+      }
+    }
+  },
+  "messages": {
+    "message_default": {
+      "en": "An Error has occurred, please contact the HP support.",
+      "fr": "Une erreur s'est produite, veuillez contacter l'assistance HP",
+      "it": "Si è verificato un errore, contattare il supporto HP.",
+      "es": "Se ha producido un error, póngase en contacto con soporte HP.",
+      "de": "Ein Fehler ist aufgetreten. Wenden Sie sich an den HP Support.",
+      "zh": "出现错误，请联系 HP 支持。",
+      "ko": "오류가 발생했습니다. HP 지원에 연락해 주십시오.",
+      "ja": "エラーが発生しました。HPサポートに連絡してください。",
+      "ru": "Произошла ошибка, обратитесь в службу поддержки HP.",
+      "pt": "Ocorreu um erro. Entre em contato com o suporte da HP."
+    },
+    "message_update": {
+      "en": "This version is no longer supported, please update.",
+      "fr": "Cette version n'est plus prise en charge, veuillez la mettre à jour.",
+      "it": "Questa versione non è più supportata, aggiornarla.",
+      "es": "Esta versión ya no es compatible, actualice.",
+      "de": "Diese Version wird nicht mehr unterstützt. Bitte aktualisieren.",
+      "zh": "不再支持此版本，请更新。",
+      "ko": "이 버전은 더 이상 지원되지 않습니다. 업데이트해 주십시오.",
+      "ja": "このバージョンはサポートされていません。更新してください。",
+      "ru": "Данная версия больше не поддерживается, выполните обновление.",
+      "pt": "Não há mais suporte para esta versão. Atualize-a."
+    },
+    "message_warning": {
+      "en": "We have a new update. It is recommended to update your application version.",
+      "fr": "Nous avons une nouvelle mise à jour. Il est recommandé de mettre à jour la version de votre application.",
+      "it": "È disponibile un nuovo aggiornamento. Si consiglia di aggiornare la versione dell'applicazione.",
+      "es": "Tenemos una nueva actualización. Se recomienda actualizar la versión de la aplicación.",
+      "de": "Wir haben ein neues Update. Eine Aktualisierung Ihrer Anwendungsversion wird empfohlen.",
+      "zh": "发现新的更新。建议更新您的应用程序版本。",
+      "ko": "새 업데이트가 있습니다. 애플리케이션 버전을 업데이트하는 것을 권장합니다.",
+      "ja": "新しい更新プログラムがあります。アプリケーションのバージョンを更新することをお勧めします。",
+      "ru": "Есть новое обновление. Рекомендуется обновить версию приложения.",
+      "pt": "Temos uma nova atualização. Recomenda-se atualizar a versão do aplicativo."
+    },
+    "assets": [],
+    "assets_last_update": "20160623"
+  },
+  "configuration": {
+    "app_rating": {
+      "rated_versions": [
+        "2.3.6",
+        "2.3.7",
+        "2.3.9",
+        "2.3.10",
+        "2.4.0",
+        "2.4.002",
+        "2.4.004",
+        "2.5.0",
+        "2.5.5",
+        "2.6.0",
+        "2.6.5",
+        "2.7.0"
+      ],
+      "days_after_installation": 10
+    },
+    "supported_languages": [
+      "en",
+      "fr",
+      "zh",
+      "de",
+      "it",
+      "ja",
+      "ko",
+      "es",
+      "pt"
+    ],
+    "validation": {
+      "check_cookie_expiry_hrs": 1,
+      "move_to_home_mins": 5,
+      "show_toast_message": true
+    },
+    "v2_support": true,
+    "completed_jobs_enabled": true,
+    "pulse_animation_in_secs": 10,
+    "notification_popup_in_secs": 5,
+    "insights": {
+      "jams_enabled": true,
+      "failures_enabled": true,
+      "badge_version": "2.6.0"
+    },
+    "weekly_printbeat": {
+      "ranking_feature": {
+        "enabled": false,
+        "supported_equipments": [
+          "IndigoPress"
+        ]
+      },
+      "kpi_data_incrementally_enabled": false
+    },
+    "nps_popup_enabled": false,
+    "kpi_explanation_enabled": true,
+    "location_based_notifications_enabled": false,
+    "beat_coins_popup_enabled": true,
+    "time_zone_popup_enabled": true,
+    "refer_a_friend": {
+      "enabled": true,
+      "url": "https://udivaks.typeform.com/to/gGABlV"
+    },
+    "closed_service_calls_days": 3,
+    "realtime_data_refresh": {
+      "enabled": true,
+      "repeat_interval_in_secs": 30
+    },
+    "filter_search_box_device_count": 5
+  }
 }

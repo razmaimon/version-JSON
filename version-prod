@@ -15,10 +15,11 @@
           "2.5.0",
           "2.5.5",
           "2.6.0",
-          "2.6.5"
+          "2.6.5",
+          "2.7.0"
         ],
         "valid": [
-          "2.7.0"
+          "2.8.0"
         ],
         "link_in_store": "https://itunes.apple.com/us/app/hp-printos-for-print-service/id1091732549?mt=8"
       },
@@ -38,10 +39,11 @@
           "2.4.0",
           "2.5.0",
           "2.5.5",
-          "2.6.0"
+          "2.6.0",
+          "2.7.0"
         ],
         "valid": [
-          "2.7.0"
+          "2.8.0"
         ],
         "link_in_store": "https://play.google.com/store/apps/details?id=com.hp.printosforpsp"
       }
